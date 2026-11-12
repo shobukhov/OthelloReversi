@@ -1,0 +1,25 @@
+### Gradle ###
+.gradle/
+build/
+.kotlin/
+
+### Java ###
+*.class
+out/
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+
+### VS Code ###
+.vscode/
+
+### macOS ###
+.DS_Store
+._*
+
+### JVM crash logs ###
+hs_err_pid*
+replay_pid*
